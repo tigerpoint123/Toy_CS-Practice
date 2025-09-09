@@ -22,10 +22,10 @@ npm install
 
 ```env
 # GitHub 리포지토리 설정
-GITHUB_REPO_OWNER=your-username
-GITHUB_REPO_NAME=your-repo
-GITHUB_MD_DIR=docs
-GITHUB_REF=main
+GITHUB_REPO_OWNER=repo owner username
+GITHUB_REPO_NAME=repo name
+GITHUB_MD_DIR=repo url
+GITHUB_REF=branch name
 
 # GitHub 토큰 (선택사항 - 레이트리밋 완화용)
 GITHUB_TOKEN=ghp_your_token_here
